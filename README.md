@@ -6,6 +6,7 @@ This is a simple, elegant, **responsive sidebar menu** project made using pure *
 
 ## 📸 Preview  
 
+![Screenshot](screenshot.png)
 
 
 
